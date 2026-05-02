@@ -1,0 +1,21 @@
+# 使用しない元の日本語ファイル名（コピー済みのため除外）
+img/morichロゴオールラウンダー版.png
+img/★もりもと.png
+img/ちかこ2-remini-enhanced.jpg
+img/幸せの赤いmorich.png
+img/漆戸 美保.jpg
+img/④.png
+img/1 (11)-remini-enhanced.jpg
+img/morich_1280×144px.png
+img/1920×450.png
+img/UPU-remini-enhanced.jpg
+
+# Google Apps Script（Webには不要）
+*.gs
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
